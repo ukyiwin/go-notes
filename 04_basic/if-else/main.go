@@ -16,4 +16,5 @@ func main() {
 	if name := "Mg Mg"; b {
 		fmt.Println(name)
 	}
+
 }
